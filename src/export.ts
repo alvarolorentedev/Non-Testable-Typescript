@@ -1,0 +1,1 @@
+export { MyInterface, myClassWithInterface, myClassWithoutInterface } from './interface'
