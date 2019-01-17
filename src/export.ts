@@ -1,1 +1,1 @@
-export { MyInterface, myClassWithInterface, myClassWithoutInterface } from './interface'
+export { MyInterface, myClassWithInterface, myClassWithoutInterface, myAbstract } from './interface'
